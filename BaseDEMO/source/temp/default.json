@@ -1,0 +1,37 @@
+{
+    "first init": false,
+
+    "port": 6565,
+
+    "name": "七彩虹",
+
+    "download": "C:\\Users\\AdmOA\\Downloads",
+    "url": "https://www.gdut.edu.cn/info/1715/21966.htm",
+
+    "log type": ".txt",
+    "log file": "log",
+
+    "OperateList":
+    [
+        {
+            "type": "excel",
+            "mode": "1",
+            "operate code": "121",
+            "row": -1,
+            "column": -1,
+            "match": "a",
+            "value": "test1"
+        }
+    ],
+    "new file": "",
+    "suffix": "_new",
+
+    "send type": 1,
+    "SendList":
+    [
+        {
+            "friend": "七彩虹",
+            "type": 3
+        }
+    ]
+}

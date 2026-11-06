@@ -1,0 +1,34 @@
+{
+    "first init": false,
+
+    "port": 6565,
+
+    "name": "七彩虹",
+
+    "download": "C:\\Users\\AdmOA\\Downloads",
+    "url": "",
+
+    "log type": ".txt",
+    "log file": "log",
+
+    "new file": "",
+    "suffix": "_new",
+
+    "send type": 1,
+    "SendList":
+    [
+        {
+            "friend": "七彩虹",
+            "type": 3
+        }
+    ],
+
+    "OperateList":
+    [
+       {
+            "mode": 0,
+            "code": "0",
+            "coord": [ 0, 0]
+        }
+    ]
+}

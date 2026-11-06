@@ -1,0 +1,64 @@
+#==== python >= 3.9
+
+#==== Back-end processing core framework
+websockets
+
+#==== Asynchronous communication and interaction(IO)
+asyncio
+
+#==== Office
+#=== Excel
+openpyxl
+pandas
+xlrd
+xlwt
+xls2xlsx
+
+#=== word
+python-docx
+
+#=== ppt
+python-pptx
+
+#=== other
+matplotlib
+
+#=== WeChat
+wxauto
+# wxautox
+pywinauto
+
+#==== System process detection
+psutil
+
+#==== self-adaptation Encoding
+chardet
+
+#==== Network Check
+requests
+
+#==== Log
+# logging
+
+#==== Web Auto-Operation
+selenium
+webdriver-manager
+
+#=== Compile (.py) -> (.exe)
+pyinstaller
+
+#=== WindowsUI OP simulation
+# Mouse
+pynput
+PyAutoGUI
+# WindowsUI
+pygetwindow
+pywin32
+# keyboard IO
+keyboard
+pyautogui
+# IMG process
+opencv-python
+
+#=======QT FrontEnd
+PyQt5

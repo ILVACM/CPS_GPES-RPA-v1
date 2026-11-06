@@ -1,0 +1,163 @@
+{
+    "OperateList": [
+        {
+            "mode": 0,
+            "code": "1",
+            "path": "config\\IMG\\4\\step1.png"
+        },
+        {
+            "mode": 0,
+            "code": "1",
+            "path": "config\\IMG\\4\\step2.png"
+        },
+        {
+            "mode": 0,
+            "code": "1",
+            "path": "config\\IMG\\4\\step3.png"
+        },
+        {
+            "mode": 0,
+            "code": "2",
+            "path": "config\\IMG\\4\\step4.png"
+        },
+        {
+            "mode": 0,
+            "code": "3",
+            "type": "姓名"
+        },
+        {
+            "mode": 0,
+            "code": "2",
+            "path": "config\\IMG\\4\\step5.png"
+        },
+        {
+            "mode": 0,
+            "code": "4",
+            "path": "config\\IMG\\4\\name.png",
+            "type": "姓名"
+        },
+        {
+            "mode": 0,
+            "code": "4",
+            "path": "config\\IMG\\4\\ID.png",
+            "type": "身份证号码"
+        },
+        {
+            "mode": 0,
+            "code": "4",
+            "path": "config\\IMG\\4\\phone.png",
+            "type": "联系电话"
+        },
+        {
+            "mode": 0,
+            "code": "4",
+            "path": "config\\IMG\\4\\startworkdate.png",
+            "type": "参加工作时间"
+        },
+        {
+            "mode": 0,
+            "code": "4",
+            "path": "config\\IMG\\4\\hiredate.png",
+            "type": "入本单位时间"
+        },
+        {
+            "mode": 0,
+            "code": "4",
+            "path": "config\\IMG\\4\\annualdate.png",
+            "type": "计算年假时间"
+        },
+        {
+            "mode": 0,
+            "code": "4",
+            "path": "config\\IMG\\4\\school.png",
+            "type": "毕业院校"
+        },
+        {
+            "mode": 0,
+            "code": "4",
+            "path": "config\\IMG\\4\\major.png",
+            "type": "所学专业"
+        },
+        {
+            "mode": 0,
+            "code": "4",
+            "path": "config\\IMG\\4\\nativeplace.png",
+            "type": "籍贯"
+        },
+        {
+            "mode": 0,
+            "code": "8",
+            "path": "config\\IMG\\4\\address.png",
+            "type": "家庭住址"
+        },
+        {
+            "mode": 0,
+            "code": "5",
+            "path": "config\\IMG\\4\\technicalskill.png",
+            "type": "专业技术团队/专家",
+            "list": ["否","一级技术专家","领军技术专家","二级技术专家","三级技术专家","四级技术专家","五级技术专家","领军技能专家","一级技能专家","二级技能专家","三级技能专家","四级技能专家","五级技能专家"]
+        },
+        {
+            "mode": 0,
+            "code": "5",
+            "path": "config\\IMG\\4\\politics.png",
+            "type": "政治面目",
+            "list": ["中共党员","中共预备党员","民主党派成员","共青团员","群众","无党派人士"]
+        },
+        {
+            "mode": 0,
+            "code": "5",
+            "path": "config\\IMG\\4\\intrapartyidentity.png",
+            "type": "党内职务",
+            "list": ["党总支书记","党总支副书记","党支部书记","党总支委员","党支部委员","中共党员","专职党务工作人员","预备党员"]
+        },
+        {
+            "mode": 0,
+            "code": "5",
+            "path": "config\\IMG\\4\\employeestatus.png",
+            "type": "员工状态",
+            "list": ["在册","外委","其他"]
+        },
+        {
+            "mode": 0,
+            "code": "5",
+            "path": "config\\IMG\\4\\employment.png",
+            "type": "用工形式",
+            "list": ["规范劳动关系用工","省编","公司合同工","劳务派遣"]
+        },
+        {
+            "mode": 0,
+            "code": "5",
+            "path": "config\\IMG\\4\\nation.png",
+            "type": "民族",
+            "list": ["汉族","其他民族"]
+        },
+        {
+            "mode": 0,
+            "code": "5",
+            "path": "config\\IMG\\4\\maritalstatus.png",
+            "type": "婚姻状况",
+            "list":["已婚","未婚","离婚","丧偶"]
+        },
+        {
+            "mode": 0,
+            "code": "5",
+            "path": "config\\IMG\\4\\educationalbackground.png",
+            "type": "最高学历",
+            "list":["博士研究生","硕士研究生","本科","大专","中专中技","高中及以下"]
+        },
+        {
+            "mode": 0,
+            "code": "6",
+            "path": "config\\IMG\\4\\highestdegree.png",
+            "educationalbackground": "最高学历",
+            "major": "所学专业",
+            "list":["学士","硕士","博士","无"]
+        },
+        {
+            "mode": 0,
+            "code": "7",
+            "path": "config\\IMG\\4\\save.png"
+        }
+    ]
+}
